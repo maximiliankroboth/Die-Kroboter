@@ -1,0 +1,300 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-12 17:27:52 +0100
+Served asset /rails.png - 200 OK (6ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2012-01-12 17:27:54 +0100
+
+ActionController::RoutingError (uninitialized constant IndexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (4.7ms)
+
+
+Started GET "/user/towns/create" for 127.0.0.1 at 2012-01-12 17:28:15 +0100
+  Processing by User::TownsController#create as HTML
+Rendered user/towns/create.html.erb within layouts/application (0.4ms)
+Compiled application.css  (4ms)  (pid 5775)
+Compiled admin/login.css  (4ms)  (pid 5775)
+Compiled scripting.css  (1ms)  (pid 5775)
+Compiled user/characters.css  (1ms)  (pid 5775)
+Compiled user/chat.css  (5ms)  (pid 5775)
+Compiled user/index.css  (2ms)  (pid 5775)
+Compiled user/towns.css  (1ms)  (pid 5775)
+Compiled user/troops.css  (2ms)  (pid 5775)
+Compiled application.js  (15ms)  (pid 5775)
+Compiled jquery.js  (45ms)  (pid 5775)
+Compiled jquery_ujs.js  (0ms)  (pid 5775)
+Compiled admin/login.js  (140ms)  (pid 5775)
+Compiled scripting.js  (95ms)  (pid 5775)
+Compiled user/characters.js  (125ms)  (pid 5775)
+Compiled user/chat.js  (93ms)  (pid 5775)
+Compiled user/index.js  (95ms)  (pid 5775)
+Compiled user/towns.js  (121ms)  (pid 5775)
+Compiled user/troops.js  (114ms)  (pid 5775)
+Completed 200 OK in 1201ms (Views: 1200.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/user/characters.css?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /user/characters.css - 200 OK (28ms)
+
+
+Started GET "/assets/user/index.css?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /user/index.css - 200 OK (4ms)
+
+
+Started GET "/assets/user/troops.css?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /user/troops.css - 200 OK (2ms)
+
+
+Started GET "/assets/scripting.css?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /scripting.css - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /jquery.js - 200 OK (4ms)
+
+
+Started GET "/assets/user/chat.css?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /user/chat.css - 200 OK (2ms)
+
+
+Started GET "/assets/admin/login.css?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /admin/login.css - 200 OK (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/admin/login.js?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /admin/login.js - 200 OK (3ms)
+
+
+Started GET "/assets/user/characters.js?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /user/characters.js - 200 OK (1ms)
+
+
+Started GET "/assets/scripting.js?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /scripting.js - 200 OK (2ms)
+
+
+Started GET "/assets/user/chat.js?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /user/chat.js - 200 OK (2ms)
+
+
+Started GET "/assets/user/towns.css?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /user/towns.css - 200 OK (4ms)
+
+
+Started GET "/assets/user/index.js?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /user/index.js - 200 OK (2ms)
+
+
+Started GET "/assets/user/troops.js?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /user/troops.js - 200 OK (2ms)
+
+
+Started GET "/assets/user/towns.js?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /user/towns.js - 200 OK (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-01-12 17:28:16 +0100
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/user/towns/create" for 127.0.0.1 at 2012-01-12 17:28:23 +0100
+  Processing by User::TownsController#create as HTML
+Rendered user/towns/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 36ms (Views: 35.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2012-01-12 17:28:28 +0100
+
+ActionController::RoutingError (uninitialized constant IndexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2012-01-12 17:29:19 +0100
+
+ActionController::RoutingError (uninitialized constant IndexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (28.5ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2012-01-12 17:30:19 +0100
+
+ActionController::RoutingError (wrong constant name indexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (27.5ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2012-01-12 17:30:29 +0100
+
+ActionController::RoutingError (wrong constant name indexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2012-01-12 17:31:01 +0100
+
+ActionController::RoutingError (uninitialized constant UserController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (28.3ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2012-01-12 17:31:13 +0100
+
+ActionController::RoutingError (uninitialized constant IndexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2012-01-12 17:31:23 +0100
+
+ActionController::RoutingError (uninitialized constant IndexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2012-01-12 17:35:46 +0100
+
+ActionController::RoutingError (uninitialized constant IndexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (28.2ms)
+
+
+Started GET "/user/index" for 127.0.0.1 at 2012-01-12 17:35:49 +0100
+
+ActionController::RoutingError (No route matches [GET] "/user/index"):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/user/chat" for 127.0.0.1 at 2012-01-12 17:35:58 +0100
+
+ActionController::RoutingError (uninitialized constant UserController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/user/chat/index" for 127.0.0.1 at 2012-01-12 17:36:05 +0100
+  Processing by User::ChatController#index as HTML
+Rendered user/chat/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 37ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/user/characters.css?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /user/characters.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/scripting.css?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /scripting.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/user/index.css?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /user/index.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/admin/login.css?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /admin/login.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/user/chat.css?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /user/chat.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/user/towns.css?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /user/towns.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/user/troops.css?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /user/troops.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/admin/login.js?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /admin/login.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/scripting.js?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /scripting.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/user/chat.js?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /user/chat.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/user/index.js?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /user/index.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/user/characters.js?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /user/characters.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/user/towns.js?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /user/towns.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/user/troops.js?body=1" for 127.0.0.1 at 2012-01-12 17:36:06 +0100
+Served asset /user/troops.js - 304 Not Modified (1ms)
+
+
+Started GET "/user" for 127.0.0.1 at 2012-01-12 17:38:04 +0100
+
+ActionController::RoutingError (uninitialized constant IndexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (27.5ms)
+
+
+Started GET "/user/index" for 127.0.0.1 at 2012-01-12 17:38:09 +0100
+
+ActionController::RoutingError (uninitialized constant IndexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/user/index/index" for 127.0.0.1 at 2012-01-12 17:38:39 +0100
+
+ActionController::RoutingError (No route matches [GET] "/user/index/index"):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-01-12 17:38:46 +0100
+Served asset /rails.png - 304 Not Modified (3ms)
+
+
+Started GET "/user/login" for 127.0.0.1 at 2012-01-12 17:38:54 +0100
+
+ActionController::RoutingError (uninitialized constant IndexController):
+  
+
+Rendered /Users/maximiliankroboth/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
